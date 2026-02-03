@@ -876,7 +876,7 @@ createBillboard(
 );
 
 //poke 텍스트 2
-    createTextOnPlane(-44, 0.003, -53,   './src/jsm/bagholderbets-text.png', 20, 40);
+    createTextOnPlane(-49, 0.004, -50,   './src/jsm/bagholderbets-text.png', 20, 40);
 
 
 // 간사이 간판 3 (회전된 버전)
@@ -1024,7 +1024,7 @@ createBox(
     //스킬 문자
     //simpleText(63, 0.01, -75, 'SKILLS', 3);
    //스킬 설명이미지
- //  createTextOnPlane(63, 0.3, -45,   './src/jsm/allSkills.png', 40, 55);
+   createTextOnPlane(63, 0.3, -45,   './src/jsm/allSkills.png', 40, 55);
    
 
     //simpleText(-42, 0.01, -30, 'PROJECTS', 3);

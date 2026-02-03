@@ -6,21 +6,21 @@ billboardTextures.homeSweetHomeTexture = '../src/jsm/home-sweet-home-portrait.pn
 
 //box textures
 let boxTexture = {};
-boxTexture.Github = '../src/jsm/githubLogo.png';
-boxTexture.twitter = '../src/jsm/twitter.png';
-boxTexture.LinkedIn = '../src/jsm/linkedInLogo.png';
-boxTexture.mail = '../src/jsm/envelope.png';
-boxTexture.globe = '../src/jsm/thunder.png';
-boxTexture.reactIcon = '../src/jsm/react.png';
-boxTexture.allSkills = '../src/jsm/allSkills.png';
-boxTexture.lensFlareMain = '../src/jsm/lensflare0.png';
-boxTexture.skrillex = '../src/jsm/skrillex.png';
-boxTexture.edmText = '../src/jsm/EDM.png';
-boxTexture.writing = '../src/jsm/writing.png';
+boxTexture.Github = './src/jsm/githubLogo.png';
+boxTexture.twitter = './src/jsm/twitter.png';
+boxTexture.LinkedIn = './src/jsm/linkedInLogo.png';
+boxTexture.mail = './src/jsm/envelope.png';
+boxTexture.globe = './src/jsm/thunder.png';
+boxTexture.reactIcon = './src/jsm/react.png';
+boxTexture.allSkills = './src/jsm/allSkills.png';
+boxTexture.lensFlareMain = './src/jsm/lensflare0.png';
+boxTexture.skrillex = './src/jsm/skrillex.png';
+boxTexture.edmText = './src/jsm/EDM.png';
+boxTexture.writing = './src/jsm/writing.png';
 
 //material textures
-let stoneTexture = '../src/jsm/stone.png';
-let woodTexture = '../src/jsm/woodTexture.jpg';
+let stoneTexture = './src/jsm/stone.png';
+let woodTexture = './src/jsm/woodTexture.jpg';
 
 //text
 let inputText = {};
